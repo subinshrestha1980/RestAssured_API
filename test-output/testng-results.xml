@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6635" started-at="2021-03-01T20:45:11Z" finished-at="2021-03-01T20:45:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6635" started-at="2021-03-01T20:45:11Z" finished-at="2021-03-01T20:45:18Z">
+      <class name="apiTry.POST_Or_Create_All_Product2">
+        <test-method status="PASS" signature="Create_A_Products()[pri:0, instance:apiTry.POST_Or_Create_All_Product2@159f197]" name="Create_A_Products" duration-ms="6597" started-at="2021-03-01T20:45:11Z" finished-at="2021-03-01T20:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Create_A_Products -->
+      </class> <!-- apiTry.POST_Or_Create_All_Product2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
